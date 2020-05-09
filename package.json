@@ -1,0 +1,24 @@
+{
+  "name": "historical-game-psd",
+  "version": "1.0.0",
+  "description": "https://dmitryluzko.github.io/historical-game-psd/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryLuzko/historical-game-psd.git"
+  },
+  "author": "Dmitry Luzko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryLuzko/historical-game-psd/issues"
+  },
+  "homepage": "https://github.com/DmitryLuzko/historical-game-psd#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}

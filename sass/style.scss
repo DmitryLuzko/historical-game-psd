@@ -73,12 +73,12 @@ button[type="submit"]:before {
 .top {
   padding-top: 13px;
   height: 712px;
-  background-image: url(img/top_bg.png);
+  background-image: url(../img/top_bg.png);
 }
 
 header {
   height: 155px;
-  background-image: url(img/bg_img.png);
+  background-image: url(../img/bg_img.png);
   background-repeat: no-repeat;
   border-bottom: 1px solid #ffffff;
 }
@@ -382,7 +382,7 @@ div.gallery_img:nth-child(5) button:nth-child(4) {
 
 .slider {
   height: 537px;
-  background-image: url(img/slider-img.jpg);
+  background-image: url(../img/slider-img.jpg);
   float: left;
   width: 100%;
 }
@@ -522,7 +522,7 @@ div.gallery_img:nth-child(5) button:nth-child(4) {
   width: 562px;
   height: 184px;
   border-radius: 4px;
-  background-image: url(img/assum.png);
+  background-image: url(..img/assum.png);
   margin-top: 323px;
   margin-left: 975px;
   padding-left: 12px;
@@ -635,7 +635,7 @@ div.gallery_img:nth-child(5) button:nth-child(4) {
   height: 313px;
   float: left;
   width: 100%;
-  background-image: url(img/sub_img.jpg);
+  background-image: url(../img/sub_img.jpg);
 }
 
 .subscribe h1 {
